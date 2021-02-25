@@ -9,3 +9,14 @@
 <h2><b> Good job Evander on learning Devops. Very proud of myself.</b></h2>
 
 ################################ NOTE ##########################################################
+
+<h1><b> This line belongs to the hard won battle that only brave men called DevOPS Engineers have to cross and it belongs to men who have gone
+through the tutelage of Prof. Serge. ARRRROOOOOOOOOOO ARRRRRRO ARRRRROOOOOOOO.I am a product of Hardwork and Perseverance</b></h1>
+
+
+
+
+
+
+
+
